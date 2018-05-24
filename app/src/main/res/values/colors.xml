@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c95e3</color>
+    <color name="colorPrimaryDark">#1c85d3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryOld">#3f51b5</color>
+    <color name="colorPrimaryDarkOld">#303F9F</color>
+
+    <color name="darkGray">#272a2f</color>
+    <color name="splashBg">#2c95e3</color>
+    <color name="LoginBg">#2c95e3</color>
+    <color name="splashButton">#1c75c3</color>
+    <color name="white">#ffffff</color>
+
+    <color name="blue">#3393d4</color>
+    <color name="green">#1ab696</color>
+    <color name="blue2">#215aab</color>
+    <color name="orange">#e14a3b</color>
+    <color name="purple">#8e64cc</color>
+    <color name="gray">#FF888888</color>
+    <color name="panelContent">#fff</color>
+    <color name="panelContentText">#000</color>
+    <color name="panelContentBackup">#393e42</color>
+
+    <color name="buttonGray">#d6d7d7</color>
+
+    <color name="loadingBarBackground">#B3424242</color>
+    <color name="mainBackground">#CCCCCC</color>
+    <color name="black">#000000</color>
+
+    <color name="menuBlockItemColor1">#ef5350</color>
+    <color name="menuBlockItemColor2">#AB47BC</color>
+    <color name="menuBlockItemColor3">#7E57C2</color>
+    <color name="menuBlockItemColor4">#5C6BC0</color>
+    <color name="menuBlockItemColor5">#26A69A</color>
+    <color name="menuBlockItemColor6">#9CCC65</color>
+    <color name="menuBlockItemColor7">#FF7043</color>
+    <color name="menuBlockItemColor8">#8D6E63</color>
+    <color name="menuBlockItemColor9">#BDBDBD</color>
+    <color name="menuBlockItemColor10">#78909C</color>
+
+</resources>
